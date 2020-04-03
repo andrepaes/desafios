@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d7d4803-0666-4fc9-80e1-0d5c360253f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lib" />
+  </component>
+  <component name="ProjectId" id="1Zzfsehb36BiGlR2cAxNl8N0HWA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d7d4803-0666-4fc9-80e1-0d5c360253f8" name="Default Changelist" comment="" />
+      <created>1585847050559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585847050559</updated>
+      <workItem from="1585847054180" duration="9696000" />
+      <workItem from="1585874244320" duration="3943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="241" key="#Elixir" timestamp="1585848733211">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="624" y="241" key="#Elixir/0.0.2048.1152@0.0.2048.1152" timestamp="1585848733211" />
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1585856534869">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1585856534869" />
+  </component>
+</project>
